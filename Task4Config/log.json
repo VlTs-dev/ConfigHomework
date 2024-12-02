@@ -1,0 +1,35 @@
+[
+    {
+        "command": "LOAD_CONST",
+        "operand": 167,
+        "binary": [
+            22,
+            167,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "command": "UNARY_SQRT",
+        "operand": 0,
+        "binary": [
+            79,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "command": "STORE_MEM",
+        "operand": 100,
+        "binary": [
+            139,
+            100,
+            0,
+            0,
+            0
+        ]
+    }
+]

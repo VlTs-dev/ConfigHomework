@@ -1,0 +1,4 @@
+<dependencies>
+    <dependency>com.example:lib1</dependency>
+    <dependency>com.example:lib2</dependency>
+</dependencies>
